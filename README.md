@@ -49,7 +49,9 @@ Escribe una función en Haskell llamada intercalar que tome dos listas como argu
 Por ejemplo:
 
 intercalar [1, 3, 5] [2, 4, 6] == [1, 2, 3, 4, 5, 6]
+
 intercalar "hola" "mundo" == "hmoulnod"
+
 intercalar [1, 2] [3, 4, 5] == [1, 3, 2, 4, 5] 
 
 2. **Aplicar una función a todos los elementos de una lista**:
@@ -59,6 +61,7 @@ Define una función en Haskell llamada aplicarATodos que tome una función y una
 Por ejemplo:
 
 aplicarATodos (+1) [1, 2, 3] == [2, 3, 4]
+
 aplicarATodos length ["hola", "mundo"] == [4, 5]
 
 3. **Área de figuras**:
@@ -73,7 +76,9 @@ Luego, define una función area que calcule el área de una figura dada.
 Por ejemplo:
 
 area (Circulo 5) == 78.53981633974483
+
 area (Rectangulo 4 5) == 20
+
 area (Triangulo 6 8) == 24
 
 ## Instrucciones de Uso
