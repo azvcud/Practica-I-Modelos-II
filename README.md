@@ -84,6 +84,7 @@ area (Triangulo 6 8) == 24
 ## Instrucciones de Uso
 
 1. **Instalar Haskell:**
+
 Asegúrate de tener Haskell instalado en tu sistema. Puedes descargarlo y seguir las instrucciones desde su [sitio oficial](https://www.haskell.org).
 
 2. **Clonar el repositorio:**
@@ -99,7 +100,7 @@ Asegúrate de tener Haskell instalado en tu sistema. Puedes descargarlo y seguir
    ghci
 ```
 
-5. **Ejecutar el archivo que desee probar:**
+5. **Ejecutar el archivo a probar:**
 ```bash
    :load practica.hs
 ```
