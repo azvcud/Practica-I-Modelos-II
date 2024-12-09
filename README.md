@@ -11,8 +11,6 @@ Proyecto Curricular de Ingeniería de Sistemas
 ## Integrantes
 
 - Amir Zoleyt Vanegas Cárdenas - 20211020015 <br> azvanegasc@udistrital.edu.co
-- Esteban Alejandro Villalba Delgadillo - 20212020064 <br> eavillalbad@udistrital.edu.co
-- Samuel Antonio Sanchez Peña - 20212020151 <br> samasanchezp@udistrital.edu.co
 
 ---
 
