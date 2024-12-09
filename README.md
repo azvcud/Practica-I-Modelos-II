@@ -85,10 +85,10 @@ area (Triangulo 6 8) == 24
 
 Para hacer uso del repositorio y el programa:
 
-### 1. Instalar Haskell
+1. Instalar Haskell
 Asegúrate de tener Haskell instalado en tu sistema. Puedes descargarlo y seguir las instrucciones desde su [sitio oficial](https://www.haskell.org).
 
-### 2. Clonar el repositorio
+2. Clonar el repositorio
 ```bash
     git clone https://github.com/azvcud/Practica-I-Modelos-II
 ```
